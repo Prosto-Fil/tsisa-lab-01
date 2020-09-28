@@ -11,8 +11,8 @@
 
 Исходный код программы приведен в tsisa_lab-01.cpp. Результат работы программы приведен на скриншотах.
 
-![lab-01_Part1_1]()
+![lab-01_Part1_1](https://github.com/Prosto-Fil/tsisa-lab-01/blob/master/screenshots/Part1_1.png)
 
-![lab-01_Part1_2]()
+![lab-01_Part1_2](https://github.com/Prosto-Fil/tsisa-lab-01/blob/master/screenshots/Part1_2.png)
 
-![lab-01_Part2]()
+![lab-01_Part2](https://github.com/Prosto-Fil/tsisa-lab-01/blob/master/screenshots/Part2.png)
