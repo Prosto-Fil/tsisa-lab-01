@@ -13,4 +13,4 @@
 
 ![lab-01_Part1](https://github.com/Prosto-Fil/tsisa-lab-01/blob/master/screenshots/Part1.png)
 
-![lab-01_Part2](https://github.com/Prosto-Fil/tsisa-lab-01/blob/master/screenshots/Part2.png)
+![lab-01_Part2](https://github.com/Prosto-Fil/tsisa-lab-01/blob/master/screenshots/Part2_1.png)
